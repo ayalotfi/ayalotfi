@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently studying at [ALX africa](https://www.alxafrica.com/)
 
-- 🌱 I’m currently learning **Frontend**
+- 🌱 I’m currently learning **Backend**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ayalotfi](https://github.com/ayalotfi)
 
-- 💬 Ask me about **Front-end || Back-end**
+- 💬 Ask me about **Back-end**
 
 - 📫 How to reach me **ayalotfi59@gmail.com**
 
