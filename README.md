@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently studying at [ALX africa](https://www.alxafrica.com/)
+- 🔭 I’m currently studying at 
 
 - 🌱 I’m currently learning **Backend**
 
